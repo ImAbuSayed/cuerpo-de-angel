@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Cuerpo de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-angel/) |
+| **Get License** | [Get a Licensing Quote for Cuerpo de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tienes un cuerpo de ángel pero bailas como el diablo,
+> Cuando me miras así, baby, pierdo el vocabulario.
+> Pégate un poquito más, let me feel your energy,
+> Esta noche tú eres mía, we making our history.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
