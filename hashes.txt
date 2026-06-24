@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cuerpo de ángel
+
+This log tracks the cryptographic history and versioning for the song **Cuerpo de ángel** (cuerpo-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T14:32:34.279575 | `v1` | `92fdb442123a612bf91065517fb7ca202fb1f7d234fec4d5edb2a8b050897def` | `b0d06be87a3437562407d734d74c007a7b0f65f698ae2d8970ed1ffc773e1736` | `2026-06-24_cuerpo-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
